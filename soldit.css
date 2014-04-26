@@ -9,6 +9,7 @@ body { margin: 0px; -webkit-user-select: none; }
 .taken-img { width:100%; }
 
 .items { background-color:#d3e7f6; }
-.item  { width:46%; margin-bottom:20px; margin-right:2%; float:left; }
+.item  { width:46%; margin-bottom:20px; margin-right:2%; float:left;
+    display:block; }
 .item img { width:80%; }
 

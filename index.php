@@ -29,9 +29,9 @@
 	  </div>
 	  <div class="items">
 <? for($i=0; $i<10; $i++){ ?>
-	    <div class="item">
+	    <a class="item" href='product.php'>
 	      <img src="item1.jpg" />
-	    </div>
+	    </a>
 <? } ?>
 	  </div>
 	</div>
